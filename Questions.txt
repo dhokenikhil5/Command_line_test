@@ -1,0 +1,25 @@
+1.Value of Pi is :
+  A) 3.142
+  B) 3.15
+  C) 3.8
+  D) None of the Above
+2.Linux is an 
+  A) Operating system
+  B) Freeware
+  C) Both A and B
+  D) None of the Above
+3.Value of Byte is
+  A) 8 bit
+  B) 32 bit
+  C) 64 bit
+  D) 16 bit
+4.Size of int in C is
+  A) 1 byte
+  B) 4 byte
+  C) 8 byte
+  D) 16 byte
+5.Array Index Starts with 
+  A) 1
+  B) 0
+  C) Both
+  D) None of the Above
