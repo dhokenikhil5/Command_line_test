@@ -1,0 +1,1 @@
+This is my Emertxe PRoject in which we are monitoring the Usage of Server like Disk space and Ram usage and Cpu usage by using Shell scripting we are getting the details by using system commands and Integrating in my code
